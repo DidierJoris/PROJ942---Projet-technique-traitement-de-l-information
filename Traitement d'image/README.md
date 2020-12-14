@@ -18,7 +18,7 @@ Ensuite, lorsque l’intensité du pixel est inférieure au seuil fixé, et que 
 
 Le recadrage vertical gauche est fait de la même manière que pour le côté droit. La seule différence réside dans les coordonnées d’origine définie au lancement du balayage. En effet, le balayage ne se fait dans ce cas plus de (0 à Xn) mais de (Xn-1 à 0).
 
-``math
+``
 y_{bas} = y_{haut} + 1,1 (x_{droit}-x_{gauche})
 ``
 
