@@ -2,11 +2,11 @@
 
 Cette partie a pour objectif de faire un traitement minutieux sur les photos. Tout d'abord, lorsque nous prenons une photo, nous devrons procéder aux mêmes traitements afin que la comparaison soit la plus optimale. Ainsi deux étapes vont devoir être traitées:
 
-##Création d’une bibliothèque d'images.
+## Création d’une bibliothèque d'images.
 
-###Programme de traitement d’image.
+### Programme de traitement d’image.
 
--Recadrage et normalisation
+- Recadrage et normalisation
 
 l'image capturée doit être recadrée. Pour faire cela nous parcourons les différents axes de la photo.
 
